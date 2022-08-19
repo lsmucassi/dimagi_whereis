@@ -1,6 +1,7 @@
+import Whereis from "./whereis"
 
 export default function Home() {
   return (
-    <div>Welcome</div>
+    <div><Whereis /></div>
   )
 }
